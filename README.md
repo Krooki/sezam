@@ -1,0 +1,2 @@
+# sezam
+Git-Lekcja1
